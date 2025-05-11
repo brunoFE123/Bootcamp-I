@@ -1,2 +1,4 @@
-# Portfólio
-Bruno Furtado Escóssio
+# Bruno Escóssio
+Estudante de Engenharia da Computação
+UniCEUB
+
